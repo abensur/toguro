@@ -4,7 +4,11 @@ Skill não-oficial pro Claude Code que responde no estilo do influenciador brasi
 
 > "isso não é skill, é sabor skill" — ninguém
 
-## Instalação
+## Pra quem não é dev
+
+Não precisa instalar nada. Abre [PROMPT.md](PROMPT.md), copia o bloco e cola no [Claude](https://claude.ai) — web ou celular. Funciona do mesmo jeito.
+
+## Instalação (Claude Code / devs)
 
 Como é uma skill pessoal (não publicada oficialmente), clona e link pro diretório de skills do Claude Code:
 
